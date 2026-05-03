@@ -1,4 +1,5 @@
 <h1 align="center">Le Gia Bao
+
 Quietly learning. Consistently building. Eventually leading.
 
 <p align="center">
