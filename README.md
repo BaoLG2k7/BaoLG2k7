@@ -2,13 +2,11 @@
 <h3 align="center">Future AI Product Builder 🚀</h3>
 <h4 align="center">Building AI + Business</h4>
 
----
+## 👾 Pacman Game
 
-## 👨‍💻 About Me
-- 🎓 Student from Vietnam
-- 💻 Currently learning Python, DSA
-- 🤖 Interested in AI, Technology, Business
-- 📈 Passionate about combining coding with entrepreneurship
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/pacman-contribution-graph.svg" />
+</p>
 
 ---
 
@@ -19,20 +17,7 @@
 
 ---
 
-## 📂 Current Projects
-- 📘 Python Basics
-- 🧠 DSA Practice
-- 🤖 Machine Learning Journey
-- 💡 AI + Business Ideas
-
 --
-
-
-## 👾 Pacman Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/pacman-contribution-graph.svg" />
-</p>
 
 ## 🐍 Contribution Snake
 
