@@ -26,3 +26,10 @@
 - 💡 AI + Business Ideas
 
 --
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/github-contribution-grid-snake.svg" />
+</p>
