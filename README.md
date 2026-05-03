@@ -1,4 +1,4 @@
-<h1 align="center">Le Gia Bao/h1>
+<h1 align="center">Le Gia Bao
 <h3 align="center">Future AI Product Builder 🚀</h3>
 <h4 align="center">Building AI + Business</h4>
 
