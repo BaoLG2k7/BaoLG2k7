@@ -2,6 +2,10 @@
 
 Quietly learning. Consistently building. Eventually leading.
 
+---
+
+## 👾 Pacman Game
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/pacman-contribution-graph.svg" />
 </p>
