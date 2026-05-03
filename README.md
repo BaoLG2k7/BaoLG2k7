@@ -1,8 +1,5 @@
 <h1 align="center">Le Gia Bao
-<h3 align="center">Future AI Product Builder 🚀</h3>
-<h4 align="center">Building AI + Business</h4>
-
-## 👾 Pacman Game
+Quietly learning. Consistently building. Eventually leading.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/pacman-contribution-graph.svg" />
@@ -16,10 +13,6 @@
 </p>
 
 ---
-
---
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/github-contribution-grid-snake.svg" />
