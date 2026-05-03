@@ -34,19 +34,7 @@
   <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaoLG2k7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+AI+Product+Builder;Building+AI+%2B+Business;Never+Stop+Learning&center=true" />
-</p>
-
----
+--
 
 ## 🔥 Commit Streak
 
