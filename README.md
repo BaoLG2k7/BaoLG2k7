@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bao</h1>
+<h3 align="center">Future AI Product Builder 🚀</h3>
+<h4 align="center">Building AI + Business</h4>
 
-<!--
-**BaoLG2k7/BaoLG2k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Student from Vietnam
+- 💻 Currently learning Python, DSA
+- 🤖 Interested in AI, Technology, Business
+- 🚀 Goal: Build AI products and create real value
+- 📈 Passionate about combining coding with entrepreneurship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Current Projects
+- 📘 Python Basics
+- 🧠 DSA Practice
+- 🤖 Machine Learning Journey
+- 💡 AI + Business Ideas
+
+---
+
+## 🔥 2026 Goals
+- [ ] Master Python
+- [ ] Finish DSA foundation
+- [ ] Build 5 real projects
+- [ ] Learn Machine Learning
+- [ ] Launch my first AI product
