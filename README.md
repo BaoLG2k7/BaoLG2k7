@@ -45,3 +45,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+AI+Product+Builder;Building+AI+%2B+Business;Never+Stop+Learning&center=true" />
 </p>
+
+---
+
+## 🔥 Commit Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BaoLG2k7&theme=tokyonight" />
+</p>
