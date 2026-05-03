@@ -4,8 +4,6 @@ Quietly learning. Consistently building. Eventually leading.
 
 ---
 
-## 👾 Pacman Game
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/BaoLG2k7/BaoLG2k7/output/pacman-contribution-graph.svg" />
 </p>
@@ -25,8 +23,3 @@ Quietly learning. Consistently building. Eventually leading.
 
 --
 
-## 🔥 Commit Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BaoLG2k7&theme=tokyonight" />
-</p>
